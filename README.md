@@ -8,3 +8,8 @@
 - [Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets)
 - [Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban)
 - [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
+
+## 2019
+
+- [The Power of Habit](https://www.amazon.com/Power-Habit-What-Life-Business-ebook/dp/B0055PGUYU)
+- [How to do research]()
